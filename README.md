@@ -50,7 +50,7 @@ https://youtu.be/pOMnJkrgcI8
 - LED를 꺼지게 함
 
 ### 회로 설계
-![image](https://user-images.githubusercontent.com/65582244/132746140-1e925827-1cf0-403b-8711-f2c58d88dc21.png)
+![image](https://user-images.githubusercontent.com/65582244/132746140-1e925827-1cf0-403b-8711-f2c58d88dc21.png) <br>
 ![image](https://user-images.githubusercontent.com/65582244/132746163-151b21cc-54b1-40a0-a568-c3685629a310.png)
 
 ### 소스 코드
