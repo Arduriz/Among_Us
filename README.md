@@ -33,8 +33,8 @@ https://github.com/choi92/Among_Us/blob/main/AmongUs_CardMission.ino
 ![image](https://user-images.githubusercontent.com/65582244/132739786-f68490c6-f503-42bc-97b5-9d6b3548422d.png)
 ![image](https://user-images.githubusercontent.com/65582244/132737444-89e77414-98fa-4dbe-8120-6b85c3a90e41.png)
 - 아두이노와 블루투스 통신할 수 있는 버튼을 만듦
-- swipe버튼으로 미션 구동
-- 노란 버튼으로 되돌리기
+- swipe 버튼으로 미션 구동
+- detect 버튼으로 되돌리기
 
 ### 구동
 https://youtu.be/pOMnJkrgcI8
