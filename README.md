@@ -15,7 +15,7 @@
 
 ### 회로 설계
 ![image](https://user-images.githubusercontent.com/65582244/132733669-542904a3-bc33-40b8-bd24-a929e7a65af1.png)
-![image](https://user-images.githubusercontent.com/65582244/132733688-b6de0528-1332-4dc9-9e62-cbd2b1dabb37.png)
+![image](https://user-images.githubusercontent.com/65582244/132733688-b6de0528-1332-4dc9-9e62-cbd2b1dabb37.png) <br>
 5V 1A 전원 연결
 
 ### 렉 & 피니언 제작
