@@ -57,5 +57,11 @@ https://youtu.be/pOMnJkrgcI8
 https://github.com/choi92/Among_Us/blob/main/AmongUs_ImposterDetect.ino
 
 ### 구동 모습
-![image](https://user-images.githubusercontent.com/65582244/132745314-58ceccac-c8ac-43c2-a8fd-3c4b1f6cf1ee.png) <br>
+![image](https://user-images.githubusercontent.com/65582244/132747013-f48947f1-5a53-4ea9-acb6-d59e59bd9e61.png) <br>
 https://youtu.be/tGL12VSzD4s
+
+___
+## 전체 모습
+![image](https://user-images.githubusercontent.com/65582244/132747139-419ea0a0-15f7-45a8-ae4a-39d2cad5a874.png)
+![image](https://user-images.githubusercontent.com/65582244/132747234-7cf5bbf9-7e99-4130-8e6a-92fb2f1b0e6e.png)
+![image](https://user-images.githubusercontent.com/65582244/132747294-0564d5a2-e3e6-4e16-abfc-e19d87784d5c.png)
