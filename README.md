@@ -37,5 +37,7 @@ https://github.com/choi92/Among_Us/blob/main/AmongUs_CardMission.ino
 - detect 버튼으로 되돌리기
 
 ### 구동
+![image](https://user-images.githubusercontent.com/65582244/132740217-c2a0185b-b68b-4c0f-b1d5-3758202995c0.png)
+
 https://youtu.be/pOMnJkrgcI8
 
