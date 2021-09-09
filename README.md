@@ -30,7 +30,7 @@
 https://github.com/choi92/Among_Us/blob/main/AmongUs_CardMission.ino
 
 ### 구동 어플리케이션 제작
-![image](https://user-images.githubusercontent.com/65582244/132737398-13ac64af-2bbc-4843-bd75-b545d2e63603.png)
+![image](https://user-images.githubusercontent.com/65582244/132739786-f68490c6-f503-42bc-97b5-9d6b3548422d.png)
 ![image](https://user-images.githubusercontent.com/65582244/132737444-89e77414-98fa-4dbe-8120-6b85c3a90e41.png)
 
 ### 구동
