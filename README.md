@@ -6,6 +6,9 @@
 "제 7차 입문설계 경진대회" Automata 분야에서 장려상을 수상하였습니다.
 
 ## 카드 인식 미션
+### 요약
+자체 제작 앱으로 아두이노와 블루투스 통신해서 stepper 모터를 돌리면 렉 & 피니언에 의해 카드가 swipe 되고, 이를 인식하여 문구를 출력하는 장치입니다.
+
 ### 알고리즘 설계
 - 블루투스를 이용해서 스마트폰 앱으로 아두이노에 신호 전달
 - 피니언과 연결된 stepper 모터를 카드와 연결된 렉의 크기에 맞게 회전
@@ -16,6 +19,7 @@
 ### 회로 설계
 ![image](https://user-images.githubusercontent.com/65582244/132733669-542904a3-bc33-40b8-bd24-a929e7a65af1.png)
 ![image](https://user-images.githubusercontent.com/65582244/132733688-b6de0528-1332-4dc9-9e62-cbd2b1dabb37.png)
+5V 1A 전원 연결
 
 ### 렉 & 피니언 제작
 ![image](https://user-images.githubusercontent.com/65582244/132734938-55569d6f-85e1-45a6-9312-b23024b98f31.png)
