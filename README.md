@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/65582244/132733688-b6de0528-1332-4dc9-9e62-cbd2b1dabb37.png) <br>
 5V 1A 전원 연결
 
-### 렉 & 피니언 제작
+### Rack & Pinion 제작
 ![image](https://user-images.githubusercontent.com/65582244/132734938-55569d6f-85e1-45a6-9312-b23024b98f31.png)
 - inkscape로 설계 후 레이저 컷팅
 
